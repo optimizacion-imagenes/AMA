@@ -1,3 +1,7 @@
+![Optimización de Imágenes y Vídeos](https://user-images.githubusercontent.com/1307927/63790903-934a2580-c8fa-11e9-8de6-0b1eea1213af.jpg)
+
+> Photo by [Cloudinary](https://cloudinary.com/) at [CloudyCam JSCamp Barcelona 2019](https://cloudycam.dev/for/jscamp-barcelona-2019)
+
 # AMA
 Ask Me Anything, sobre Optimización de Imágenes y Vídeos
 
