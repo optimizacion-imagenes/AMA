@@ -2,7 +2,7 @@
 Ask Me Anything, sobre Optimización de Imágenes y Vídeos
 
 
-En este espacio podrás hacer cualquier pregunta relacionada con el curso de [Optimización de Imágenes y Videos]()
+En este espacio podrás hacer cualquier pregunta relacionada con el curso de [Optimización de Imágenes y Videos](https://optimizacion-imagenes.github.io/Curso/)
 
 ### 🤔 [Haz una pregunta](../../issues/new) &nbsp;&nbsp;|&nbsp;&nbsp; 🔍 [Consulta las preguntas realizadas](../../issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aclosed%20sort%3Aupdated-desc%20-label%3Ahidden)
 
